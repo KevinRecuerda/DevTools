@@ -1,5 +1,10 @@
 # Rider settings
 
+### import
+
+- import `settings.zip` for global settings
+- import `Default.xml` for code style settings
+
 ### Keymaps
 
 | type | action | shortcut |
