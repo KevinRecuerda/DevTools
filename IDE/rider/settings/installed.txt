@@ -1,0 +1,3 @@
+com.intellij.lang.puppet
+org.intellij.plugins.markdown
+ru.adelf.idea.dotenv
