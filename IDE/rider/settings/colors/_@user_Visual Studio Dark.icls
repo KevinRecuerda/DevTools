@@ -16,6 +16,11 @@
         <option name="FOREGROUND" value="9cdcfe" />
       </value>
     </option>
+    <option name="JSON.PROPERTY_KEY">
+      <value>
+        <option name="FOREGROUND" value="9cdcfe" />
+      </value>
+    </option>
     <option name="ReSharper.CSHARP_CONSTANT_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="ff9d9d" />
